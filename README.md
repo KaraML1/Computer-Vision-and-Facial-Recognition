@@ -3,7 +3,7 @@ Repository for ICSI435/535 (Artificial Intelligence I) Project
 
 # Face Recognition GUI Application
 
-Phase 1 of this project is a face recognition application with a GUI that allows users to upload an image to identify if the person in the image matches any known faces stored in the application’s dataset. Known faces can include group members and famous individuals.
+Face recognition application with a GUI that allows users to upload an image to identify if the person in the image matches any known faces stored in the application’s dataset. Known faces include famous individuals.
 
 ## Features
 - GUI built with Tkinter for ease of use.
@@ -39,7 +39,7 @@ pip install face-recognition dlib opencv-python-headless
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ShelleyMassinga/Computer-Vision-Face-Detection-and-Recognition.git
+   git clone https://github.com/KaraML1/Computer-Vision-and-Facial-Recognition.git
    cd Computer-Vision-Face-Detection-and-Recognition
    ```
 
